@@ -1,5 +1,5 @@
 ﻿$packageName = 'neo4j' 
-$url = 'http://neo4j.com/artifact.php?name=neo4j-community_windows_2_2_2.exe'
+$url = 'http://neo4j.com/artifact.php?name=neo4j-community-2.2.2-windows.zip'
 
 $programData = $env:ProgramData
 $installFolder = "$programData\neo4j"
