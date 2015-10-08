@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>elasticsearch</id>
+    <title>elasticsearch</title>
+    <version>1.7.2</version>
+    <authors>Tomas Jansson</authors>
+    <owners>Elastic</owners>
+    <summary>A simple package to install elasticsearch as a package</summary>
+    <description>A simple package to install elasticsearch as a package</description>
+    <projectUrl>https://www.elastic.co/</projectUrl>
+    <tags>elasticsearch</tags>
+    <copyright></copyright>
+    <licenseUrl>https://github.com/elastic/elasticsearch/blob/master/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
