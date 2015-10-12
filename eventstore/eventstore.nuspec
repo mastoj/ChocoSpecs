@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>eventstore</id>
     <title>Event Store</title>
-    <version>3.0.5</version>
+    <version>3.3.0</version>
     <authors>Tomas Jansson</authors>
     <owners>Event Store</owners>
     <summary>A simple package to install Event Store as a package</summary>

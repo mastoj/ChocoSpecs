@@ -1,5 +1,5 @@
 ﻿$packageName = 'eventstore'
-$version = '3.0.5'
+$version = '3.3.0'
 
 $url = "http://download.geteventstore.com/binaries/EventStore-OSS-Win-v" + $version + ".zip"
 
