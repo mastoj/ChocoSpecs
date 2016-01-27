@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>neo4j</id>
     <title>neo4j</title>
-    <version>2.2.2</version>
+    <version>2.3.2</version>
     <authors>Neo Technology, Inc.</authors>
     <owners>Tomas Jansson</owners>
     <summary>A simple package to install Event Store as a package</summary>
